@@ -1,0 +1,6 @@
+#!name=githubcontent
+#!author=neo729
+#!desc= githubusercontent
+
+[Rule]
+DOMAIN-SUFFIX,githubusercontent.com,Proxy
