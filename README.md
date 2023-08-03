@@ -1,0 +1,2 @@
+# surge-rules
+personal use
