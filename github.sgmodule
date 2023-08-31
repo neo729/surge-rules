@@ -4,3 +4,4 @@
 
 [Rule]
 DOMAIN-SUFFIX,githubusercontent.com,Proxy
+DOMAIN-SUFFIX,github.com,Proxy
